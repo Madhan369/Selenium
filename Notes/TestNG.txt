@@ -1,0 +1,20 @@
+TestNG
+---------------
+TestNG is a unit testing next generation tool.
+> it will be used for the following reasons
+ - cross browser testing.
+ - run same test script any number Of times.
+ - parallel execution.
+ - data driven testing.
+ - emailable test execution report.
+ - batch execution.
+ - we can run test scripts according to the test plan.
+---------------------------------
+one testcase - one script - one method.
+one class - one module/build.
+----------------------------
+In Java there are 4 templates as follows:
+> Class > Interface > Enumeration > Annotation
+Annotations - It is the java template and also it is the represenation of the logic.
+- In testNG there are lot of annotations which can be used to run the scripts.
+-----------------------
