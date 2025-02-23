@@ -18,3 +18,19 @@ In Java there are 4 templates as follows:
 Annotations - It is the java template and also it is the represenation of the logic.
 - In testNG there are lot of annotations which can be used to run the scripts.
 -----------------------
+
+-----------------------
+What is testNG Class?
+How to create testNG Class?
+How @Test Annotation will work?
+--------------------------
+> priority - @Test
+ - default value is 0
+ - it will set the order of execution.
+> enabled - @Test
+  - default value boolean true.
+  - it will help us to the stop the @Test annotation annotated method from the execution.
+> invocationCount - @Test
+  - default value - 1
+ - it will help us to execute the same test script any number of times.
+----------------------- 
